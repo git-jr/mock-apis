@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Chapei de Palha",
+            "profile_url": "https://raw.githubusercontent.com/git-jr/sample-files/main/profile%20pics/netflix_profile_pic_1.png"
+        },
+        {
+            "id": 2,
+            "name": "Martha",
+            "profile_url": "https://raw.githubusercontent.com/git-jr/sample-files/main/profile%20pics/netflix_profile_pic_2.png"
+        },
+        {
+            "id": 3,
+            "name": "Morningstar",
+            "profile_url": "https://raw.githubusercontent.com/git-jr/sample-files/main/profile%20pics/netflix_profile_pic_3.png"
+        },
+        {
+            "id": 4,
+            "name": "Shelby",
+            "profile_url": "https://raw.githubusercontent.com/git-jr/sample-files/main/profile%20pics/netflix_profile_pic_4.png"
+        },
+        {
+            "id": 5,
+            "name": "Rick",
+            "profile_url": "https://raw.githubusercontent.com/git-jr/sample-files/main/profile%20pics/netflix_profile_pic_5.png"
+        }
+    ]
+}
